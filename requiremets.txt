@@ -1,1 +1,2 @@
-pip install tkinter mysql.connector bcrypt
+mysql.connector==2.2.9
+bcrypt==4.3.0
